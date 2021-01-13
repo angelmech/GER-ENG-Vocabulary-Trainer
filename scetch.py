@@ -29,6 +29,8 @@ def eingabe():
         if englisch == "#":
             return
         eintraege.append(Entry(deutsch, englisch))
+        with open(datei,"a+") as save_words:
+            save_words.write(f"\n{deutsch},{englisch}")
 
 
 def test():
