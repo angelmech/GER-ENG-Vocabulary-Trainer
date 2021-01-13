@@ -2,4 +2,4 @@
 
 vokabeltrainer -> sketch.py
 
-NOCH IN BAU
+WORK IN PROGRESS
