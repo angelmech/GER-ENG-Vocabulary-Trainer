@@ -8,9 +8,13 @@ vocabulary list for both versions -> vocabulary.txt
 
 
 
+
 This is a self-made vocabulary trainer with python(tkinter).
 
+
 all in-built funcitons:
+
+
 
 Search function - search for single words
 
